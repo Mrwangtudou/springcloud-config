@@ -1,0 +1,6 @@
+eureka:
+  instance:
+    hostname: config-ceter
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka
